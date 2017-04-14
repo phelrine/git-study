@@ -1,1 +1,8 @@
 test
+
+<<<<<<< HEAD
+
+local
+=======
+remote
+>>>>>>> 9ac3c895b73e2b9cd043da4fa738ff383c4e451d
